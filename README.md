@@ -1,6 +1,8 @@
 yahoo-finance-conduit
 =====
 
+[![Build Status](https://travis-ci.org/agrafix/yahoo-finance-conduit.svg)](https://travis-ci.org/agrafix/yahoo-finance-conduit)
+
 # Intro
 
 Hackage: http://hackage.haskell.org/package/yahoo-finance-conduit
