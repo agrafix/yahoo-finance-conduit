@@ -4,9 +4,9 @@ synopsis:            Streaming aproach to the yahoo finance api
 description:         Small library streaming stock market data from the yahoo finance api
 license:             MIT
 license-file:        LICENSE
-author:              Alexander Thiemann <mail@agrafix.net>
+author:              Alexander Thiemann <mail@athiemann.net>
 maintainer:          mail@agrafix.net
-copyright:           (c) 2014 - 2015 Alexander Thiemann <mail@agrafix.net>
+copyright:           (c) 2014 - 2015 Alexander Thiemann <mail@athiemann.net>
 category:            Data
 build-type:          Simple
 cabal-version:       >=1.10
